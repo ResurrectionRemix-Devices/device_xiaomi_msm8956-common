@@ -248,3 +248,5 @@ TARGET_TAP_TO_WAKE_NODE := "/sys/android_touch/doubletap2wake"
 # Enable DRM plugins 64 bit compilation
 TARGET_ENABLE_MEDIADRM_64 := true
 
+# Security Patch Level
+VENDOR_SECURITY_PATCH := 2019-01-05
